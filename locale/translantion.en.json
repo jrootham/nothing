@@ -1,0 +1,7 @@
+{
+"title": "A Nothing Page",
+"nothing" : "Nothing",
+"instructions" : "This is a page that lets you do nothing.  After you press the Button to do nothing, you can press Clear to do nothing again.  There is no limit to the number of times you can do nothing.",
+"button": "Button",
+"clear" : "Clear"
+}
