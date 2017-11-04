@@ -8265,7 +8265,7 @@ var _user$project$Translations$clear = function (lang) {
 	if (_p0.ctor === 'En') {
 		return 'Clear';
 	} else {
-		return 'Francais Clear';
+		return 'Effacer';
 	}
 };
 var _user$project$Translations$button = function (lang) {
@@ -8273,7 +8273,7 @@ var _user$project$Translations$button = function (lang) {
 	if (_p1.ctor === 'En') {
 		return 'Button';
 	} else {
-		return 'Francais Button';
+		return 'Bouton';
 	}
 };
 var _user$project$Translations$instructions = function (lang) {
@@ -8281,7 +8281,7 @@ var _user$project$Translations$instructions = function (lang) {
 	if (_p2.ctor === 'En') {
 		return 'This is a page that lets you do nothing.  After you press the Button to do nothing, you can press Clear to do nothing again.  There is no limit to the number of times you can do nothing.';
 	} else {
-		return 'Francais This is a page that lets you do nothing.  After you press the Button to do nothing, you can press Clear to do nothing again.  There is no limit to the number of times you can do nothing.';
+		return 'Ceci est une page qui vous permet de ne rien faire. Après avoir appuyé sur le bouton pour ne rien faire, vous pouvez appuyer sur «Effacer» pour ne plus rien faire. Il n\'y a pas de limite au nombre de fois que vous pouvez rien faire.';
 	}
 };
 var _user$project$Translations$nothing = function (lang) {
@@ -8289,7 +8289,7 @@ var _user$project$Translations$nothing = function (lang) {
 	if (_p3.ctor === 'En') {
 		return 'Nothing';
 	} else {
-		return 'Francais Nothing';
+		return 'Rien';
 	}
 };
 var _user$project$Translations$title = function (lang) {
@@ -8297,7 +8297,7 @@ var _user$project$Translations$title = function (lang) {
 	if (_p4.ctor === 'En') {
 		return 'A Nothing Page';
 	} else {
-		return 'Francais A Nothing Page';
+		return 'Une page vide';
 	}
 };
 var _user$project$Translations$Fr = {ctor: 'Fr'};

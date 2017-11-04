@@ -1,7 +1,7 @@
 {
-"title": "",
-"nothing" : "",
-"instructions" : "",
-"button": "",
-"clear" : ""
+"title": "Une page vide",
+"nothing" : "Rien",
+"instructions" : "Ceci est une page qui vous permet de ne rien faire. Après avoir appuyé sur le bouton pour ne rien faire, vous pouvez appuyer sur «Effacer» pour ne plus rien faire. Il n'y a pas de limite au nombre de fois que vous pouvez rien faire.",
+"button": "Bouton",
+"clear" : "Effacer"
 }
