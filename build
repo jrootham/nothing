@@ -6,4 +6,4 @@ echo " "
 echo " "
 
 elm-i18n-gen locale gen/Translations.elm
-elm-make src/Main.elm --output docs/main.js
+elm-make src/client/Client.elm --output public_html/client.js
